@@ -1,0 +1,29 @@
+{
+  "id": "integration/wallet-adapter-concept",
+  "title": "Integrate with Aptos Wallets",
+  "description": "分散型アプリケーションは多くの場合、ブラウザ拡張機能またはモバイル アプリケーションを通じて実行され、オンチェーン データを読み取り、トランザクションを送信します。Aptosウォレットアダプターは、アプリとウォレットを単一のインターフェイスとして統合出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/integration/wallet-adapter-concept.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/wallet-adapter-concept",
+  "permalink": "/ja/integration/wallet-adapter-concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/wallet-adapter-concept.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Integrate with Aptos Wallets",
+    "id": "wallet-adapter-concept"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Token Overview",
+    "permalink": "/ja/guides/nfts/aptos-token-overview"
+  },
+  "next": {
+    "title": "Dapps用",
+    "permalink": "/ja/integration/wallet-adapter-for-dapp"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "move/book/uses",
+  "title": "Uses and Aliases",
+  "description": "The use syntax can be used to create aliases to members in other modules. use can be used to",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/uses.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/uses",
+  "permalink": "/ja/move/book/uses",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/uses.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Abilities(機能)",
+    "permalink": "/ja/move/book/abilities"
+  },
+  "next": {
+    "title": "フレンズ",
+    "permalink": "/ja/move/book/friends"
+  }
+}

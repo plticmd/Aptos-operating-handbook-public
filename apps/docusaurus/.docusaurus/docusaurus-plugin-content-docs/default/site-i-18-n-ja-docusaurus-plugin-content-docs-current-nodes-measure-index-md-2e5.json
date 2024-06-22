@@ -1,0 +1,29 @@
+{
+  "id": "nodes/measure/index",
+  "title": "Monitor your Nodes",
+  "description": "You have several options for monitoring and inspecting the health and performance of your nodes:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/measure/index.md",
+  "sourceDirName": "nodes/measure",
+  "slug": "/nodes/measure/measure-index",
+  "permalink": "/ja/nodes/measure/measure-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/measure/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Monitor your Nodes",
+    "slug": "measure-index"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Files For Devnet",
+    "permalink": "/ja/nodes/node-files-all-networks/node-files-devnet"
+  },
+  "next": {
+    "title": "Node Inspection Service",
+    "permalink": "/ja/nodes/measure/node-inspection-service"
+  }
+}

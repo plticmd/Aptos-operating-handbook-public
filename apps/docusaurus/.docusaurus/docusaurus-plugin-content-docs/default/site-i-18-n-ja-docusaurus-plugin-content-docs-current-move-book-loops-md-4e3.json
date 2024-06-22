@@ -1,0 +1,26 @@
+{
+  "id": "move/book/loops",
+  "title": "While, For, and Loop",
+  "description": "Move offers three constructs for looping: while, for, and loop.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/loops.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/loops",
+  "permalink": "/ja/move/book/loops",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/loops.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "条件文",
+    "permalink": "/ja/move/book/conditionals"
+  },
+  "next": {
+    "title": "関数",
+    "permalink": "/ja/move/book/functions"
+  }
+}

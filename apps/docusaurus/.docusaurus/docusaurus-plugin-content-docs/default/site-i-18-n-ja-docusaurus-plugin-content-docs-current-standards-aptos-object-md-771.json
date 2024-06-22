@@ -1,0 +1,28 @@
+{
+  "id": "standards/aptos-object",
+  "title": "Object",
+  "description": "The Object model allows Move to represent a complex type as a set of resources stored within a single address and offers a rich capability model that allows for fine-grained resource control and ownership management.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/aptos-object.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/aptos-object",
+  "permalink": "/ja/standards/aptos-object",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/aptos-object.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Object"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Standards",
+    "permalink": "/ja/standards/"
+  },
+  "next": {
+    "title": "Aptos Coin (Legacy)",
+    "permalink": "/ja/standards/aptos-coin"
+  }
+}

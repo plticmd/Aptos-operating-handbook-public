@@ -1,0 +1,26 @@
+{
+  "id": "move/book/references",
+  "title": "References",
+  "description": "Move has two types of references: immutable & and mutable &mut. Immutable references are read",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/references.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/references",
+  "permalink": "/ja/move/book/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/references.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Signer",
+    "permalink": "/ja/move/book/signer"
+  },
+  "next": {
+    "title": "Tuples and Unit",
+    "permalink": "/ja/move/book/tuples"
+  }
+}

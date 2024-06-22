@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/move-security-guidelines",
+  "title": "Security",
+  "description": "Introduction",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/move-security-guidelines.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/move-security-guidelines",
+  "permalink": "/ja/move/move-on-aptos/move-security-guidelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/move-security-guidelines.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Security"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Gas Profiling",
+    "permalink": "/ja/move/move-on-aptos/gas-profiling"
+  },
+  "next": {
+    "title": "Move Prover",
+    "permalink": "/ja/move/prover/move-prover"
+  }
+}

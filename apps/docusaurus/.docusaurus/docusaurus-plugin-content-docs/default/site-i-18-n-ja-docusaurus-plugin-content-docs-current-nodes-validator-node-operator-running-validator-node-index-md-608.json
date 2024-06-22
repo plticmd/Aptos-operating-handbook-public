@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/running-validator-node/index",
+  "title": "Deploy Nodes",
+  "description": "Before you can run a validator and validator fullnode (VFN) in an Aptos network, you will need to select a deployment",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/running-validator-node/index.md",
+  "sourceDirName": "nodes/validator-node/operator/running-validator-node",
+  "slug": "/nodes/validator-node/operator/running-validator-node/running-validator-node",
+  "permalink": "/ja/nodes/validator-node/operator/running-validator-node/running-validator-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/running-validator-node/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Deploy Nodes",
+    "slug": "running-validator-node"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Node Requirements",
+    "permalink": "/ja/nodes/validator-node/operator/node-requirements"
+  },
+  "next": {
+    "title": "Using Source Code",
+    "permalink": "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/indexer-fullnode",
+  "title": "インデクサーフルノードを実行する",
+  "description": "これは従来のインデクサーに関するドキュメントです。最新のインデクサースタックの基盤となるインフラストラクチャを実行する方法については トランザクションストリームサービスを御覧下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/legacy/indexer-fullnode.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/indexer-fullnode",
+  "permalink": "/ja/indexer/legacy/indexer-fullnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/indexer-fullnode.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "インデクサーフルノードを実行する"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "従来のインデクサー",
+    "permalink": "/ja/indexer/legacy/"
+  },
+  "next": {
+    "title": "カスタムデータモデル",
+    "permalink": "/ja/indexer/legacy/custom-data-model"
+  }
+}

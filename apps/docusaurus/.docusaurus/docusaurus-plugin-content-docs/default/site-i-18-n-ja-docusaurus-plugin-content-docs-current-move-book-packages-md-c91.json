@@ -1,0 +1,26 @@
+{
+  "id": "move/book/packages",
+  "title": "Packages",
+  "description": "Packages allow Move programmers to more easily re-use code and share it",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/packages.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/packages",
+  "permalink": "/ja/move/book/packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/packages.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "フレンズ",
+    "permalink": "/ja/move/book/friends"
+  },
+  "next": {
+    "title": "Package Upgrades",
+    "permalink": "/ja/move/book/package-upgrades"
+  }
+}

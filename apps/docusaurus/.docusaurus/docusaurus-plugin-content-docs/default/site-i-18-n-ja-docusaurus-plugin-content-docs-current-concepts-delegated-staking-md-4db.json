@@ -1,0 +1,28 @@
+{
+  "id": "concepts/delegated-staking",
+  "title": "Delegated Staking",
+  "description": "Delegated Staking on the Aptos Blockchain",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/delegated-staking.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/delegated-staking",
+  "permalink": "/ja/concepts/delegated-staking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/delegated-staking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Delegated Staking"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Staking",
+    "permalink": "/ja/concepts/staking"
+  },
+  "next": {
+    "title": "Governance",
+    "permalink": "/ja/concepts/governance"
+  }
+}

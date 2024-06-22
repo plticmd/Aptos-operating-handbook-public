@@ -1,0 +1,26 @@
+{
+  "id": "move/book/integers",
+  "title": "Integers",
+  "description": "Move supports six unsigned integer types: u8, u16, u32, u64, u128, and u256. Values of these types range from 0 to a maximum that depends on the size of the type.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/integers.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/integers",
+  "permalink": "/ja/move/book/integers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/integers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Moveチュートリアル",
+    "permalink": "/ja/move/book/creating-coins"
+  },
+  "next": {
+    "title": "ブール",
+    "permalink": "/ja/move/book/bool"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "standards/aptos-coin",
+  "title": "Aptos Coin (Legacy)",
+  "description": "コインが提供する標準は、シンプルで型安全なフレームワーク、代替可能トークンとコインです。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/aptos-coin.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/aptos-coin",
+  "permalink": "/ja/standards/aptos-coin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/aptos-coin.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Aptos Coin (Legacy)"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Object",
+    "permalink": "/ja/standards/aptos-object"
+  },
+  "next": {
+    "title": "Aptos Fungible Asset Standard",
+    "permalink": "/ja/standards/fungible-asset"
+  }
+}

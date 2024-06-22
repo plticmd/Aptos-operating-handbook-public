@@ -1,0 +1,996 @@
+{
+  "/ja/__docusaurus/debug-83a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    }
+  },
+  "/ja/__docusaurus/debug/config-8e7": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    }
+  },
+  "/ja/__docusaurus/debug/content-5da": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    },
+    "allContent": "allContent---ja-docusaurus-debug-content-246-a78"
+  },
+  "/ja/__docusaurus/debug/globalData-ddd": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    }
+  },
+  "/ja/__docusaurus/debug/metadata-e5c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    }
+  },
+  "/ja/__docusaurus/debug/registry-d98": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    }
+  },
+  "/ja/__docusaurus/debug/routes-835": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ja-docusaurus-debug-98-b-748"
+    }
+  },
+  "/ja/search-2e7": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---ja-searchfee-38c"
+    }
+  },
+  "/ja/-dcf": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ja-394-59e"
+    }
+  },
+  "/ja/-f4e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---ja-935-852"
+  },
+  "/ja/-b5c": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ja/apis/-b19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-apis-be-7-8ca"
+  },
+  "/ja/apis/aptos-labs-developer-portal-24d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-apis-aptos-labs-developer-portal-844-7f4"
+  },
+  "/ja/apis/fullnode-rest-api-9ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-apis-fullnode-rest-api-218-e20"
+  },
+  "/ja/aptos-white-paper/-70c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-aptos-white-paper-a-60-24c"
+  },
+  "/ja/category/advanced-builders-ef4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ja-category-advanced-buildersb-69-554"
+  },
+  "/ja/community/-d00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-community-e-24-ecb"
+  },
+  "/ja/community/aptos-style-8f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-community-aptos-style-671-011"
+  },
+  "/ja/community/contributions/remix-ide-plugin-8d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-community-contributions-remix-ide-plugin-953-fde"
+  },
+  "/ja/community/contributors-fa0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-community-contributorsa-0-e-252"
+  },
+  "/ja/community/external-resources-f46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-community-external-resources-3-f-3-ffa"
+  },
+  "/ja/community/site-updates-092": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-community-site-updates-71-e-c87"
+  },
+  "/ja/concepts/-7cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-36-d-80d"
+  },
+  "/ja/concepts/accounts-84c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-accountsbb-4-e7d"
+  },
+  "/ja/concepts/base-gas-983": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-base-gasdf-8-43f"
+  },
+  "/ja/concepts/blockchain-a4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-blockchainfe-5-52f"
+  },
+  "/ja/concepts/blocks-c09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-blocks-915-0bf"
+  },
+  "/ja/concepts/delegated-staking-a46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-delegated-staking-4-db-719"
+  },
+  "/ja/concepts/events-550": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-events-536-32b"
+  },
+  "/ja/concepts/fullnodes-0f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-fullnodes-58-b-090"
+  },
+  "/ja/concepts/gas-txn-fee-ef5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-gas-txn-feef-46-c12"
+  },
+  "/ja/concepts/governance-08f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-governance-37-b-805"
+  },
+  "/ja/concepts/move-on-aptos-2ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-move-on-aptos-24-a-7e2"
+  },
+  "/ja/concepts/node-networks-sync-7b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-node-networks-synca-01-959"
+  },
+  "/ja/concepts/resources-325": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-resourcesd-62-e5c"
+  },
+  "/ja/concepts/staking-520": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-stakingf-8-a-fcb"
+  },
+  "/ja/concepts/txns-states-01a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-txns-states-348-f37"
+  },
+  "/ja/concepts/validator-nodes-cf2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-concepts-validator-nodes-754-59a"
+  },
+  "/ja/guides/account-management/key-rotation-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-account-management-key-rotationf-33-9f4"
+  },
+  "/ja/guides/building-from-source-548": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-building-from-source-004-1c2"
+  },
+  "/ja/guides/data-pruning-489": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-data-pruning-7-b-9-0b6"
+  },
+  "/ja/guides/explore-aptos-ee7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-explore-aptose-8-a-9fe"
+  },
+  "/ja/guides/keyless-accounts-91c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-keyless-accountsfe-2-e0f"
+  },
+  "/ja/guides/local-development-network-62f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-local-development-network-9-ed-c4a"
+  },
+  "/ja/guides/nfts/aptos-token-overview-6a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-nfts-aptos-token-overview-4-b-6-8da"
+  },
+  "/ja/guides/running-a-local-multi-node-network-1ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-running-a-local-multi-node-networkece-290"
+  },
+  "/ja/guides/sponsored-transactions-086": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-sponsored-transactions-453-32e"
+  },
+  "/ja/guides/state-sync-380": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-state-syncfe-5-27c"
+  },
+  "/ja/guides/system-integrators-guide-f6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-system-integrators-guide-693-579"
+  },
+  "/ja/guides/transaction-management-327": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-guides-transaction-managementb-26-429"
+  },
+  "/ja/indexer/api/-35f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-api-f-0-b-d04"
+  },
+  "/ja/indexer/api/example-queries-535": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-api-example-queries-550-65b"
+  },
+  "/ja/indexer/api/labs-hosted-3f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-api-labs-hosted-551-f7b"
+  },
+  "/ja/indexer/api/self-hosted-494": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-api-self-hostede-4-e-7c4"
+  },
+  "/ja/indexer/api/usage-guide-25d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-api-usage-guided-90-8e1"
+  },
+  "/ja/indexer/custom-processors/-c99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-custom-processors-1-dc-96e"
+  },
+  "/ja/indexer/custom-processors/e2e-tutorial-56e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-custom-processors-e-2-e-tutorial-11-f-f71"
+  },
+  "/ja/indexer/custom-processors/parsing-txns-48b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-custom-processors-parsing-txns-7-e-9-6f6"
+  },
+  "/ja/indexer/indexer-landing-1e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-indexer-landing-2-e-8-e8e"
+  },
+  "/ja/indexer/legacy/-802": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-legacy-8-a-6-cb1"
+  },
+  "/ja/indexer/legacy/custom-data-model-248": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-legacy-custom-data-model-16-e-960"
+  },
+  "/ja/indexer/legacy/indexer-fullnode-619": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-legacy-indexer-fullnode-52-d-fe8"
+  },
+  "/ja/indexer/legacy/migration-cd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-legacy-migration-342-84b"
+  },
+  "/ja/indexer/txn-stream/-e63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-txn-stream-5-c-4-626"
+  },
+  "/ja/indexer/txn-stream/labs-hosted-7c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-txn-stream-labs-hosted-317-63a"
+  },
+  "/ja/indexer/txn-stream/local-development-4cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-txn-stream-local-development-941-d71"
+  },
+  "/ja/indexer/txn-stream/self-hosted-a8b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-indexer-txn-stream-self-hostedf-73-d7c"
+  },
+  "/ja/integration/-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-integration-48-c-b99"
+  },
+  "/ja/integration/aptos-names-service-package-0b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-integration-aptos-names-service-package-05-b-e86"
+  },
+  "/ja/integration/wallet-adapter-concept-32e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-integration-wallet-adapter-conceptca-9-09d"
+  },
+  "/ja/integration/wallet-adapter-for-dapp-094": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-integration-wallet-adapter-for-dappe-4-e-0a9"
+  },
+  "/ja/integration/wallet-adapter-for-wallets-fcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-integration-wallet-adapter-for-wallets-236-87b"
+  },
+  "/ja/move/aptos-move-383": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ja-move-aptos-movea-60-ad2"
+  },
+  "/ja/move/book/abilities-061": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-abilities-0-e-2-d0b"
+  },
+  "/ja/move/book/abort-and-assert-f1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-abort-and-assert-6-ab-f93"
+  },
+  "/ja/move/book/address-edf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-addressb-8-b-0b0"
+  },
+  "/ja/move/book/bool-800": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-bool-104-f3b"
+  },
+  "/ja/move/book/coding-conventions-8c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-coding-conventions-099-631"
+  },
+  "/ja/move/book/conditionals-cf7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-conditionals-1-ab-92c"
+  },
+  "/ja/move/book/constants-09d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-constants-7-e-8-f52"
+  },
+  "/ja/move/book/creating-coins-67b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-creating-coinseea-356"
+  },
+  "/ja/move/book/equality-5c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-equality-19-b-a83"
+  },
+  "/ja/move/book/friends-4cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-friends-876-4ef"
+  },
+  "/ja/move/book/functions-4b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-functions-0-e-5-73a"
+  },
+  "/ja/move/book/generics-48a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-generics-916-175"
+  },
+  "/ja/move/book/global-storage-operators-5dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-global-storage-operators-26-c-39d"
+  },
+  "/ja/move/book/global-storage-structure-60c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-global-storage-structure-26-c-5c2"
+  },
+  "/ja/move/book/integers-52e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-integers-02-d-6e7"
+  },
+  "/ja/move/book/introduction-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-introduction-099-884"
+  },
+  "/ja/move/book/loops-fa5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-loops-4-e-3-b43"
+  },
+  "/ja/move/book/modules-and-scripts-cde": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-modules-and-scripts-573-094"
+  },
+  "/ja/move/book/package-upgrades-f35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-package-upgradesf-09-074"
+  },
+  "/ja/move/book/packages-a6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-packagesc-91-c33"
+  },
+  "/ja/move/book/references-e5f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-references-78-d-75b"
+  },
+  "/ja/move/book/signer-ae4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-signer-86-f-6f3"
+  },
+  "/ja/move/book/standard-library-e87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-standard-library-305-3b6"
+  },
+  "/ja/move/book/structs-and-resources-bde": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-structs-and-resourcesba-2-863"
+  },
+  "/ja/move/book/SUMMARY-bab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-summary-6-b-7-c55"
+  },
+  "/ja/move/book/tuples-f46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-tuples-835-02b"
+  },
+  "/ja/move/book/unit-testing-449": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-unit-testing-6-bd-277"
+  },
+  "/ja/move/book/uses-785": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-uses-71-b-932"
+  },
+  "/ja/move/book/variables-892": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-variablesfbc-d4d"
+  },
+  "/ja/move/book/vector-e25": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-book-vector-3-d-6-007"
+  },
+  "/ja/move/move-on-aptos-c33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptosd-9-e-a88"
+  },
+  "/ja/move/move-on-aptos/cli-dc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-cli-12-c-615"
+  },
+  "/ja/move/move-on-aptos/cryptography-16c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-cryptography-563-66f"
+  },
+  "/ja/move/move-on-aptos/gas-profiling-be7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-gas-profiling-411-9ac"
+  },
+  "/ja/move/move-on-aptos/modules-on-aptos-ca3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-modules-on-aptosb-31-1f2"
+  },
+  "/ja/move/move-on-aptos/move-security-guidelines-077": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-move-security-guidelinesed-0-0c7"
+  },
+  "/ja/move/move-on-aptos/objects/-096": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-objects-3-c-0-90a"
+  },
+  "/ja/move/move-on-aptos/objects/configuring-objects-cc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-objects-configuring-objects-783-8d0"
+  },
+  "/ja/move/move-on-aptos/objects/creating-objects-ca6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-objects-creating-objectse-0-e-407"
+  },
+  "/ja/move/move-on-aptos/objects/using-objects-4ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-objects-using-objects-837-b27"
+  },
+  "/ja/move/move-on-aptos/resource-accounts-53a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-resource-accountsb-98-f49"
+  },
+  "/ja/move/move-on-aptos/scripts/-382": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-scripts-9-a-9-0d4"
+  },
+  "/ja/move/move-on-aptos/scripts/compiling-scripts-8e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-scripts-compiling-scriptsf-06-76f"
+  },
+  "/ja/move/move-on-aptos/scripts/running-scripts-2e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-scripts-running-scripts-24-c-c20"
+  },
+  "/ja/move/move-on-aptos/scripts/script-tutorial-322": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-scripts-script-tutoriala-52-f2a"
+  },
+  "/ja/move/move-on-aptos/scripts/writing-scripts-416": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-move-on-aptos-scripts-writing-scripts-5-ca-08e"
+  },
+  "/ja/move/prover/move-prover-363": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-prover-move-prover-067-6b5"
+  },
+  "/ja/move/prover/prover-guide-c98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-prover-prover-guided-96-894"
+  },
+  "/ja/move/prover/spec-lang-ab5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-prover-spec-lang-312-b4a"
+  },
+  "/ja/move/prover/supporting-resources-efd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-move-prover-supporting-resources-980-ce3"
+  },
+  "/ja/nodes/aptos-api-spec-99f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-aptos-api-specc-73-21e"
+  },
+  "/ja/nodes/configure/configure-index-fa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-configure-configure-indexd-55-d19"
+  },
+  "/ja/nodes/full-node/aptos-db-restore-325": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-aptos-db-restore-962-184"
+  },
+  "/ja/nodes/full-node/bootstrap-fullnode-f12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-bootstrap-fullnode-270-e02"
+  },
+  "/ja/nodes/full-node/deployments/deploy-a-pfn-2b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-deployments-deploy-a-pfna-39-fb2"
+  },
+  "/ja/nodes/full-node/deployments/deploy-a-pfn-docker-559": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-deployments-deploy-a-pfn-docker-217-9e1"
+  },
+  "/ja/nodes/full-node/deployments/deploy-a-pfn-gcp-a8b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-deployments-deploy-a-pfn-gcp-002-6ec"
+  },
+  "/ja/nodes/full-node/deployments/deploy-a-pfn-source-code-28f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-deployments-deploy-a-pfn-source-code-11-b-ea1"
+  },
+  "/ja/nodes/full-node/fullnode-network-connections-288": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-fullnode-network-connections-545-324"
+  },
+  "/ja/nodes/full-node/fullnode-source-code-or-docker-029": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-fullnode-source-code-or-dockerc-32-45a"
+  },
+  "/ja/nodes/full-node/network-identity-fullnode-320": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-network-identity-fullnodec-80-4af"
+  },
+  "/ja/nodes/full-node/pfn-requirements-622": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-pfn-requirements-160-a1e"
+  },
+  "/ja/nodes/full-node/public-fullnode-d5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-public-fullnodeb-64-be8"
+  },
+  "/ja/nodes/full-node/update-fullnode-with-new-devnet-releases-819": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-update-fullnode-with-new-devnet-releases-3-ee-494"
+  },
+  "/ja/nodes/full-node/verify-pfn-32f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-full-node-verify-pfna-96-912"
+  },
+  "/ja/nodes/identity-and-configuration-a02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-identity-and-configurationb-46-173"
+  },
+  "/ja/nodes/leaderboard-metrics-195": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-leaderboard-metrics-517-a36"
+  },
+  "/ja/nodes/localnet/localnet-index-8b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-localnet-localnet-index-331-f3f"
+  },
+  "/ja/nodes/localnet/run-a-localnet-b96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-localnet-run-a-localnet-8-e-4-f34"
+  },
+  "/ja/nodes/measure/important-metrics-5fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-measure-important-metricsb-84-b21"
+  },
+  "/ja/nodes/measure/measure-index-02e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-measure-measure-index-2-e-5-95e"
+  },
+  "/ja/nodes/measure/node-health-checker-860": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-measure-node-health-checkereb-5-2ad"
+  },
+  "/ja/nodes/measure/node-health-checker-faq-521": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-measure-node-health-checker-faqec-7-9d9"
+  },
+  "/ja/nodes/measure/node-inspection-service-e61": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-measure-node-inspection-service-386-500"
+  },
+  "/ja/nodes/modify/modify-index-861": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-modify-modify-index-7-c-3-979"
+  },
+  "/ja/nodes/networks-bc7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-networksd-0-c-45a"
+  },
+  "/ja/nodes/node-files-all-networks/node-files-131": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-node-files-all-networks-node-files-4-da-51a"
+  },
+  "/ja/nodes/node-files-all-networks/node-files-devnet-130": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-node-files-all-networks-node-files-devnetfe-2-925"
+  },
+  "/ja/nodes/node-files-all-networks/node-files-index-8b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-node-files-all-networks-node-files-index-333-434"
+  },
+  "/ja/nodes/node-files-all-networks/node-files-testnet-395": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-node-files-all-networks-node-files-testnete-8-d-911"
+  },
+  "/ja/nodes/nodes-landing-42a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-nodes-landing-52-e-4a2"
+  },
+  "/ja/nodes/operations/operations-index-cd0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-operations-operations-index-1-fb-4f1"
+  },
+  "/ja/nodes/validator-node/operator/connect-nodes/connect-validator-node-49b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-connect-nodes-connect-validator-nodeaa-8-df5"
+  },
+  "/ja/nodes/validator-node/operator/connect-to-aptos-network-9d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-connect-to-aptos-network-5-f-6-606"
+  },
+  "/ja/nodes/validator-node/operator/delegation-pool-operations-3b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-delegation-pool-operations-73-a-267"
+  },
+  "/ja/nodes/validator-node/operator/index-fec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-index-976-db7"
+  },
+  "/ja/nodes/validator-node/operator/modify-nodes/modify-validator-node-608": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-modify-nodes-modify-validator-nodeb-05-82e"
+  },
+  "/ja/nodes/validator-node/operator/node-liveness-criteria-4cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-node-liveness-criteria-0-c-2-a01"
+  },
+  "/ja/nodes/validator-node/operator/node-requirements-04c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-node-requirements-2-a-6-8ca"
+  },
+  "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws-749": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-running-validator-node-run-validator-node-using-awsb-10-f98"
+  },
+  "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure-f72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-running-validator-node-run-validator-node-using-azure-75-c-0a1"
+  },
+  "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker-be6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-running-validator-node-run-validator-node-using-dockerc-3-b-afe"
+  },
+  "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp-c96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-running-validator-node-run-validator-node-using-gcpe-56-4f5"
+  },
+  "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source-695": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-running-validator-node-run-validator-node-using-source-5-fa-7d1"
+  },
+  "/ja/nodes/validator-node/operator/running-validator-node/running-validator-node-4a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-running-validator-node-running-validator-node-608-352"
+  },
+  "/ja/nodes/validator-node/operator/shutting-down-nodes-7de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-shutting-down-nodesb-12-c38"
+  },
+  "/ja/nodes/validator-node/operator/staking-pool-operations-3be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-staking-pool-operationsc-78-33f"
+  },
+  "/ja/nodes/validator-node/operator/update-validator-node-ecd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-update-validator-node-92-e-183"
+  },
+  "/ja/nodes/validator-node/operator/verify-nodes/verify-validator-node-95f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-operator-verify-nodes-verify-validator-nodee-33-3ed"
+  },
+  "/ja/nodes/validator-node/validators-7b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-validators-344-c8b"
+  },
+  "/ja/nodes/validator-node/voter/index-6c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-nodes-validator-node-voter-indexcbd-6d5"
+  },
+  "/ja/reference/error-codes-2b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-reference-error-codes-2-b-2-fbd"
+  },
+  "/ja/reference/glossary-280": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-reference-glossaryac-8-b2c"
+  },
+  "/ja/reference/move-bd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-reference-move-3-ab-64e"
+  },
+  "/ja/reference/telemetry-cc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-reference-telemetry-2-b-4-ba7"
+  },
+  "/ja/releases/aptos-releases-17f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-releases-aptos-releases-8-a-1-d83"
+  },
+  "/ja/sdks/index-d09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-index-92-d-7c8"
+  },
+  "/ja/sdks/legacy-ts-sdk/index-b6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-index-345-b19"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class-fd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-aptos-client-class-19-f-c15"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-client-layer-e21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-client-layer-94-b-468"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-core-layer-c4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-core-layer-369-fe9"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class-b2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-indexer-client-class-40-d-974"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-overview-868": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-overviewf-69-af1"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer-8c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-plugins-layerf-94-722"
+  },
+  "/ja/sdks/legacy-ts-sdk/typescript-sdk-tests-62f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-legacy-ts-sdk-typescript-sdk-tests-673-1dc"
+  },
+  "/ja/sdks/python-sdk/-af1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-python-sdk-165-e3a"
+  },
+  "/ja/sdks/rust-sdk/-2cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-rust-sdk-bf-1-9ea"
+  },
+  "/ja/sdks/ts-sdk/-140": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-dcb-676"
+  },
+  "/ja/sdks/ts-sdk/account-6f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-account-0-a-8-a81"
+  },
+  "/ja/sdks/ts-sdk/fetch-data-from-chain-8c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-fetch-data-from-chain-1-c-7-c94"
+  },
+  "/ja/sdks/ts-sdk/http-client-937": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-http-client-971-010"
+  },
+  "/ja/sdks/ts-sdk/migration-guide-4f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-migration-guide-74-c-8b6"
+  },
+  "/ja/sdks/ts-sdk/move-types-d53": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-move-types-03-d-c44"
+  },
+  "/ja/sdks/ts-sdk/sdk-configuration-894": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-sdk-configuration-719-947"
+  },
+  "/ja/sdks/ts-sdk/testing-09d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-testing-8-dc-d27"
+  },
+  "/ja/sdks/ts-sdk/transaction-builder-720": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-transaction-builder-40-d-3bc"
+  },
+  "/ja/sdks/ts-sdk/typescript-a19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-ts-sdk-typescript-503-ffc"
+  },
+  "/ja/sdks/unity-sdk/-c21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-sdks-unity-sdk-222-224"
+  },
+  "/ja/standards/-78a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-8-ed-25e"
+  },
+  "/ja/standards/aptos-coin-acd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-aptos-coin-58-a-d16"
+  },
+  "/ja/standards/aptos-object-aa4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-aptos-object-771-9de"
+  },
+  "/ja/standards/aptos-token-f8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-aptos-token-629-e15"
+  },
+  "/ja/standards/digital-asset-bf0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-digital-asset-642-786"
+  },
+  "/ja/standards/fungible-asset-4d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-fungible-assetf-7-e-00f"
+  },
+  "/ja/standards/multisig-managed-fungible-asset-ed8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-multisig-managed-fungible-assetb-6-a-3a0"
+  },
+  "/ja/standards/wallets-27f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-standards-walletsdf-8-c84"
+  },
+  "/ja/tools/aptos-cli/-61e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-ae-3-63f"
+  },
+  "/ja/tools/aptos-cli/install-cli/-b06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-install-cli-48-e-582"
+  },
+  "/ja/tools/aptos-cli/install-cli/automated-install-922": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-install-cli-automated-installd-4-a-de7"
+  },
+  "/ja/tools/aptos-cli/install-cli/build-from-source-b55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-install-cli-build-from-sourced-3-e-198"
+  },
+  "/ja/tools/aptos-cli/install-cli/download-cli-binaries-0ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-install-cli-download-cli-binariesfe-9-43a"
+  },
+  "/ja/tools/aptos-cli/install-cli/install-from-brew-df1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-install-cli-install-from-brewf-16-e27"
+  },
+  "/ja/tools/aptos-cli/install-cli/install-move-prover-228": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-install-cli-install-move-provera-4-b-7fc"
+  },
+  "/ja/tools/aptos-cli/use-cli/cli-account-58e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-cli-account-7-cf-6d0"
+  },
+  "/ja/tools/aptos-cli/use-cli/cli-configuration-569": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-cli-configuration-7-d-0-6b1"
+  },
+  "/ja/tools/aptos-cli/use-cli/cli-genesis-212": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-cli-genesis-530-5d4"
+  },
+  "/ja/tools/aptos-cli/use-cli/cli-key-d98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-cli-key-85-f-90c"
+  },
+  "/ja/tools/aptos-cli/use-cli/cli-node-fa9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-cli-node-61-b-451"
+  },
+  "/ja/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial-e4d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-move-tutorials-arguments-in-json-tutoriald-23-658"
+  },
+  "/ja/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial-c67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-move-tutorials-multi-signature-tutorial-4-f-0-ce0"
+  },
+  "/ja/tools/aptos-cli/use-cli/public-network/run-public-network-82b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-public-network-run-public-network-527-a2b"
+  },
+  "/ja/tools/aptos-cli/use-cli/running-a-local-network-a89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-running-a-local-network-34-e-b5a"
+  },
+  "/ja/tools/aptos-cli/use-cli/use-aptos-cli-158": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-use-aptos-clif-8-b-9c0"
+  },
+  "/ja/tools/aptos-cli/use-cli/use-aptos-ledger-056": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-use-aptos-ledgere-8-f-ff6"
+  },
+  "/ja/tools/aptos-cli/use-cli/working-with-move-contracts-96d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tools-aptos-cli-use-cli-working-with-move-contractsa-0-d-086"
+  },
+  "/ja/tutorials/-767": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-c-28-9f9"
+  },
+  "/ja/tutorials/build-e2e-dapp/add-wallet-support-c67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-add-wallet-support-256-c02"
+  },
+  "/ja/tutorials/build-e2e-dapp/create-a-smart-contract-139": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-create-a-smart-contractf-4-e-777"
+  },
+  "/ja/tutorials/build-e2e-dapp/e2e-dapp-index-ed5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-e-2-e-dapp-index-44-b-fd7"
+  },
+  "/ja/tutorials/build-e2e-dapp/fetch-data-from-chain-49b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-fetch-data-from-chain-987-3a9"
+  },
+  "/ja/tutorials/build-e2e-dapp/handle-tasks-f50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-handle-tasksf-43-9e4"
+  },
+  "/ja/tutorials/build-e2e-dapp/set-up-react-app-a52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-set-up-react-app-8-d-0-19d"
+  },
+  "/ja/tutorials/build-e2e-dapp/submit-data-to-chain-8e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-build-e-2-e-dapp-submit-data-to-chain-3-df-a64"
+  },
+  "/ja/tutorials/first-move-module-742": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-first-move-module-452-384"
+  },
+  "/ja/tutorials/programmatic-upgradeable-module-889": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-programmatic-upgradeable-moduleb-99-95e"
+  },
+  "/ja/tutorials/your-first-coin-a53": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-your-first-coin-0-ab-64b"
+  },
+  "/ja/tutorials/your-first-fungible-asset-b0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-your-first-fungible-asseted-9-a35"
+  },
+  "/ja/tutorials/your-first-multisig-3e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-your-first-multisig-4-c-2-bdd"
+  },
+  "/ja/tutorials/your-first-nft-792": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-your-first-nftf-15-e8f"
+  },
+  "/ja/tutorials/your-first-transaction-bec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-tutorials-your-first-transaction-0-ec-785"
+  },
+  "/ja/-71b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ja-2-b-9-cf9"
+  }
+}

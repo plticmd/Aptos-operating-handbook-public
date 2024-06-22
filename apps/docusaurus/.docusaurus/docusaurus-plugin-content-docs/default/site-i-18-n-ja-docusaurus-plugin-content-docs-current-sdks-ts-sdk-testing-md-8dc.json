@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/testing",
+  "title": "Testing",
+  "description": "The SDK uses two types of tests, End-to-End (E2E) and unit tests, located under the tests folder.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/ts-sdk/testing.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/testing",
+  "permalink": "/ja/sdks/ts-sdk/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/testing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Testing"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move Types",
+    "permalink": "/ja/sdks/ts-sdk/move-types"
+  },
+  "next": {
+    "title": "Typescript",
+    "permalink": "/ja/sdks/ts-sdk/typescript"
+  }
+}

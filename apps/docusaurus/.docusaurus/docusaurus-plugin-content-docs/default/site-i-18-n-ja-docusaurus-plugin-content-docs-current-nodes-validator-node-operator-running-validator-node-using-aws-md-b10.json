@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/running-validator-node/using-aws",
+  "title": "Using AWS",
+  "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using Amazon Web Services (AWS). Using this guide,",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/running-validator-node/using-aws.md",
+  "sourceDirName": "nodes/validator-node/operator/running-validator-node",
+  "slug": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws",
+  "permalink": "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/running-validator-node/using-aws.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Using AWS",
+    "slug": "run-validator-node-using-aws"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using Docker",
+    "permalink": "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker"
+  },
+  "next": {
+    "title": "Using Azure",
+    "permalink": "/ja/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure"
+  }
+}

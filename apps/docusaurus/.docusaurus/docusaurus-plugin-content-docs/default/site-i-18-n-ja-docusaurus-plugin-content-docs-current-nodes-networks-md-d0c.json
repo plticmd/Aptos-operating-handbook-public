@@ -1,0 +1,29 @@
+{
+  "id": "nodes/networks",
+  "title": "Networks",
+  "description": "| Description                              | Mainnet                                                                                                          | Testnet                                                                                                          | Devnet                                                                                                          |",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/networks.md",
+  "sourceDirName": "nodes",
+  "slug": "/nodes/networks",
+  "permalink": "/ja/nodes/networks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/networks.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Networks",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Latest Aptos Releases",
+    "permalink": "/ja/releases/aptos-releases"
+  },
+  "next": {
+    "title": "Aptos White Paper(日本語)",
+    "permalink": "/ja/aptos-white-paper/"
+  }
+}

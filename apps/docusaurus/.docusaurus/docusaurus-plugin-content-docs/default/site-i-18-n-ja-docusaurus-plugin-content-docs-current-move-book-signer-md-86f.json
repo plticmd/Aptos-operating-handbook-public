@@ -1,0 +1,26 @@
+{
+  "id": "move/book/signer",
+  "title": "Signer",
+  "description": "signer is a built-in Move resource type. A signer is a",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/signer.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/signer",
+  "permalink": "/ja/move/book/signer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/signer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Vector",
+    "permalink": "/ja/move/book/vector"
+  },
+  "next": {
+    "title": "References",
+    "permalink": "/ja/move/book/references"
+  }
+}

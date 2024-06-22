@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/migration",
+  "title": "トランザクション ストリーム サービスへの移行",
+  "description": "現在レガシーインデクサーを実行を実行している場合、トランザクションストリームサービスの使用へ移行する方法をガイドします。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/legacy/migration.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/migration",
+  "permalink": "/ja/indexer/legacy/migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/migration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "トランザクション ストリーム サービスへの移行"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "カスタムデータモデル",
+    "permalink": "/ja/indexer/legacy/custom-data-model"
+  },
+  "next": {
+    "title": "Use Aptos SDKs",
+    "permalink": "/ja/sdks/index"
+  }
+}

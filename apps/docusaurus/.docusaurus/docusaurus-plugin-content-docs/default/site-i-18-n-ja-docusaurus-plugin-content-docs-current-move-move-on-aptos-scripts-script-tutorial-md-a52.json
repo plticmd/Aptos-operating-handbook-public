@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/script-tutorial",
+  "title": "Move Scripts Tutorial",
+  "description": "This tutorial explains how to write and execute a Move script. You can use Move scripts to execute a series of commands across published Move module interfaces.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/scripts/script-tutorial.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/script-tutorial",
+  "permalink": "/ja/move/move-on-aptos/scripts/script-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/script-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Move Scripts Tutorial"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Running Move Scripts",
+    "permalink": "/ja/move/move-on-aptos/scripts/running-scripts"
+  },
+  "next": {
+    "title": "Resource Accounts",
+    "permalink": "/ja/move/move-on-aptos/resource-accounts"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/running-scripts",
+  "title": "Running Move Scripts",
+  "description": "Move scripts are supported in the Aptos TypeScript SDK, Aptos Wallet Adapter,",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/scripts/running-scripts.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/running-scripts",
+  "permalink": "/ja/move/move-on-aptos/scripts/running-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/running-scripts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Running Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Compiling Move Scripts",
+    "permalink": "/ja/move/move-on-aptos/scripts/compiling-scripts"
+  },
+  "next": {
+    "title": "Move Scripts Tutorial",
+    "permalink": "/ja/move/move-on-aptos/scripts/script-tutorial"
+  }
+}

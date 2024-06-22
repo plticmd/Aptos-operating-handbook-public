@@ -1,0 +1,26 @@
+{
+  "id": "move/book/tuples",
+  "title": "Tuples and Unit",
+  "description": "Move does not fully support tuples as one might expect coming from another language with them as a",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/tuples.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/tuples",
+  "permalink": "/ja/move/book/tuples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/tuples.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "References",
+    "permalink": "/ja/move/book/references"
+  },
+  "next": {
+    "title": "Local Variables and Scope",
+    "permalink": "/ja/move/book/variables"
+  }
+}

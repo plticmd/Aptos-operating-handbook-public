@@ -1,0 +1,26 @@
+{
+  "id": "move/book/bool",
+  "title": "ブール",
+  "description": "boolはブール値true及びfalseのMoveのプリミティブ型です。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/bool.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/bool",
+  "permalink": "/ja/move/book/bool",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/bool.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Integers",
+    "permalink": "/ja/move/book/integers"
+  },
+  "next": {
+    "title": "アドレス",
+    "permalink": "/ja/move/book/address"
+  }
+}

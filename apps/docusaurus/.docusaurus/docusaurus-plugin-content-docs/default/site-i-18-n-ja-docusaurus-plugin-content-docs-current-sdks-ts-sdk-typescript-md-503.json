@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/typescript",
+  "title": "Typescript",
+  "description": "Aptos SDK is designed to be type-safe! Things to keep in mind:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/ts-sdk/typescript.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/typescript",
+  "permalink": "/ja/sdks/ts-sdk/typescript",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/typescript.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Typescript"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/ja/sdks/ts-sdk/testing"
+  },
+  "next": {
+    "title": "TypeScript Index",
+    "permalink": "/ja/sdks/legacy-ts-sdk/index"
+  }
+}

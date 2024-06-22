@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/index",
+  "title": "TypeScript Index",
+  "description": "<!---",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/ts-sdk/index.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/",
+  "permalink": "/ja/sdks/ts-sdk/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "TypeScript Index"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Use Aptos SDKs",
+    "permalink": "/ja/sdks/index"
+  },
+  "next": {
+    "title": "Migration Guide",
+    "permalink": "/ja/sdks/ts-sdk/migration-guide"
+  }
+}

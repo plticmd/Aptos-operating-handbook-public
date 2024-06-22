@@ -1,0 +1,28 @@
+{
+  "id": "concepts/fullnodes",
+  "title": "Fullnodes Overview",
+  "description": "An Aptos node is an entity of the Aptos ecosystem that tracks the state of the Aptos blockchain. Clients interact with the blockchain via Aptos nodes. There are two types of nodes:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/fullnodes.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/fullnodes",
+  "permalink": "/ja/concepts/fullnodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/fullnodes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Fullnodes Overview"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Validator Nodes Overview",
+    "permalink": "/ja/concepts/validator-nodes"
+  },
+  "next": {
+    "title": "Node Networks and Sync",
+    "permalink": "/ja/concepts/node-networks-sync"
+  }
+}
